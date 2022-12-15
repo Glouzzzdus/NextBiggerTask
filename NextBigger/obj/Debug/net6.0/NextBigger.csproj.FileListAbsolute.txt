@@ -1,0 +1,12 @@
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\bin\Debug\net6.0\NextBigger.deps.json
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\bin\Debug\net6.0\NextBigger.dll
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\bin\Debug\net6.0\NextBigger.pdb
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\NextBigger.csproj.AssemblyReference.cache
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\NextBigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\NextBigger.AssemblyInfoInputs.cache
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\NextBigger.AssemblyInfo.cs
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\NextBigger.csproj.CoreCompileInputs.cache
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\NextBigger.dll
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\refint\NextBigger.dll
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\NextBigger.pdb
+C:\Users\glouz\Source\Repos\next-bigger\NextBigger\obj\Debug\net6.0\ref\NextBigger.dll

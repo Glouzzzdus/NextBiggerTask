@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0G0654g1qA3UQBsjS7vyRt3Bf3A/ByAhIS0t2+cXmtPnLkK9CgLS+6QgjPxHdemesGG4utpS5VL1eUOxChAzgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\glouz\\Source\\Repos\\next-bigger\\NextBigger\\NextBigger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glouz\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
